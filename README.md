@@ -2,6 +2,8 @@
 A power sequencer VHDL code project for digital board designs with glue logic FPGA
 Original release here on GitHub in 2024
 
+To download: Click the zip file, on the next page click "view raw" to download it.
+
 A less restrictive license called "BSD zero clause" is used. This will allow companies to use it in their product without restrictions or obligations.
 The BSD 0-clause license: Copyright (C) 2024 by Istvan Nagy buenoshun@gmail.com 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted. THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE.
