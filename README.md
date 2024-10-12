@@ -1,6 +1,7 @@
 # powerseq-FPGA-IP
 A power sequencer VHDL code project for digital board designs with glue logic FPGA
 Original release here on GitHub in 2024
+Also available on: https://opencores.org/projects/powerseq
 
 To download: Click the zip file, on the next page click "view raw" to download it.
 
